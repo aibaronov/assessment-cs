@@ -1,0 +1,5 @@
+//Link to a spread sheet for different run times
+https://docs.google.com/spreadsheets/d/1VBE1USB5raTPXFZW8xoUBlde-yXHyXPcxvQSPYqWGz0/edit?usp=sharing
+
+//Link to an explanation and analysis comparing run times between shift and unshift.
+https://docs.google.com/document/d/1FBdwFaSQitW2ej8tRWwYU7zcHiptWmizpqrd4hDlrWc/edit?usp=sharing
